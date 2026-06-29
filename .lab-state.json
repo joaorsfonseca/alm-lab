@@ -1,5 +1,8 @@
 {
   "tenantId": "957a313a-971b-4add-b513-038b581bc3e7",
   "randomIdentifier": 8594,
-  "txcAuth": "doris.hebert@ngtraining1.onmicrosoft.com"
+  "txcAuth": "doris.hebert@ngtraining1.onmicrosoft.com",
+  "solutionName": "WarehouseManagement",
+  "publisherName": "ALMLab",
+  "publisherPrefix": "almlab"
 }
