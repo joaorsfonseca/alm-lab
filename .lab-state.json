@@ -4,5 +4,8 @@
   "txcAuth": "doris.hebert@ngtraining1.onmicrosoft.com",
   "solutionName": "WarehouseManagement",
   "publisherName": "ALMLab",
-  "publisherPrefix": "almlab"
+  "publisherPrefix": "almlab",
+  "repo": "joaorsfonseca/alm-lab",
+  "mainRulesetId": 18267649,
+  "mainRulesetName": "alm-lab-main-protection"
 }
